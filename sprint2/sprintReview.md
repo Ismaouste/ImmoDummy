@@ -1,4 +1,5 @@
 # Sprint 2
+- Remarque : l'équipe de développement n'a pas réussi à définir quels seont les usages de la page vendeur et comment la communication entre conseiller et vendeur fonctionne. Le product owner fournira du détail sur cet aspect pour la réunion de création du backlog du sprint 3.
 ## Review of the backlogs
 1. Done
 2. Done
